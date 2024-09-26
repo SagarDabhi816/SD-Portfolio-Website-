@@ -312,6 +312,17 @@ function ProjectMaker(){
         "https://github.com/SagarDabhi816/Currency-Converter",
       type: "react",
     },
+    {
+      Video: "Videos/Refokus.mp4",
+      Heading: "Refokus",
+      Para: "Static Landing Page of Refokus",
+      Language: "React , Tailwind",
+      Livelink:
+        "https://refokusxd.netlify.app/",
+      Srccodelink:
+        "https://github.com/SagarDabhi816/Refokus",
+      type: "react",
+    },
   ];
 
   clutter += arrayofdata
