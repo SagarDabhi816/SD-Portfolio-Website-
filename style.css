@@ -426,6 +426,7 @@ section {
 }
 #rightpart p {
   font-size: 1vw;
+  text-transform: capitalize;
 }
 /*======================= WATCHLIVE BUTTONS ============================ */
 .wrapper {
