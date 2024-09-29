@@ -235,7 +235,7 @@ function ProjectMaker(){
     {
       Video: "Videos/Obys.mp4",
       Heading: "Obys Agency",
-      Para: "My First Animated landing page clone that ive made while lerning at same time",
+      Para: "A responsive clone replicating Obys Agency’s UI with dynamic animations",
       Language: "HTML , CSS , JavaScript , GSAP , Locomotive.JS",
       Livelink: "https://sagardabhi816.github.io/Obys-Agency/",
       Srccodelink: "https://github.com/SagarDabhi816/Obys-Agency",
@@ -243,8 +243,8 @@ function ProjectMaker(){
     },
     {
       Video: "Videos/Cynthia.mp4",
-      Heading: "Obys Agency",
-      Para: "My First Animated landing page clone that ive made while lerning at same time",
+      Heading: "Cynthia Ugwu",
+      Para: "My First Animated landing page clone that I've made while learning at same time",
       Language: "HTML , CSS , JavaScript , GSAP , Locomotive.JS",
       Livelink: "https://sagardabhi816.github.io/Cynthia-Ugwu/",
       Srccodelink: "https://github.com/SagarDabhi816/Cynthia-Ugwu",
@@ -253,7 +253,7 @@ function ProjectMaker(){
     {
       Video: "Videos/Golf.mp4",
       Heading: "Sidcup Family Golf",
-      Para: "My First Animated landing page clone that ive made while lerning at same time ",
+      Para: "landing Page with animations and micro interactions",
       Language: "HTML , CSS , JavaScript , GSAP , Locomotive.JS",
       Livelink: "https://sagardabhi816.github.io/Sidcup-Family-Golf-/",
       Srccodelink: "https://github.com/SagarDabhi816/Sidcup-Family-Golf-",
@@ -262,7 +262,7 @@ function ProjectMaker(){
     {
       Video: "Videos/Works.mp4",
       Heading: "Works Studio",
-      Para: "My First Animated landing page clone that ive made while lerning at same time",
+      Para: "Recreating Experience of the Works Studio Webpage",
       Language: "HTML , CSS , JavaScript , GSAP , Locomotive.JS",
       Livelink: "https://sagardabhi816.github.io/Works-Studio/",
       Srccodelink: "https://github.com/SagarDabhi816/Works-Studio",
@@ -291,21 +291,28 @@ function ProjectMaker(){
       type: "minor",
     },
     {
+      Video: "Videos/scsdb.mp4",
+      Heading: "SCSDB",
+      Para: "A movie page with real time trending movies/tvshows with dedicated page for celebries information",
+      Language: "React , Tailwind CSS",
+      Livelink: "https://scsdbmvapp.netlify.app/",
+      Srccodelink: "https://github.com/SagarDabhi816/SCSDB-A-Movie-App",
+      type: "react",
+    },
+    {
       Video: "Videos/Reactpassgen.mp4",
       Heading: "Password Generator",
       Para: "Performance optimised Password Generator with copy to clipboard functionality",
-      Language: "React , Tailwind",
-      Livelink:
-        "https://passwordgenerstor.netlify.app/",
-      Srccodelink:
-        "https://github.com/SagarDabhi816/Small-JavaScript-Projects/tree/main/Password%20Generator",
+      Language: "React , Tailwind CSS",
+      Livelink: "https://passwordgenerstor.netlify.app/",
+      Srccodelink:"https://github.com/SagarDabhi816/Optimised-Password-Generator",
       type: "react",
     },
     {
       Video: "Videos/Currency_convo1.mp4",
       Heading: "Currency Converter",
       Para: "Seamless and accurate conversions between various global currencies",
-      Language: "React , Tailwind",
+      Language: "React , Tailwind CSS",
       Livelink:
         "https://currency-converter-e17cd7.netlify.app/",
       Srccodelink:
@@ -316,7 +323,7 @@ function ProjectMaker(){
       Video: "Videos/Refokus.mp4",
       Heading: "Refokus",
       Para: "Static Landing Page of Refokus",
-      Language: "React , Tailwind",
+      Language: "React , Tailwind CSS",
       Livelink:
         "https://refokusxd.netlify.app/",
       Srccodelink:
