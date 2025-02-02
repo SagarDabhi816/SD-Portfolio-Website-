@@ -191,7 +191,7 @@ function Hamburgermenu() {
   <span id="line2" class="line"></span></a></a>
 </li>
 <li class="nav-item">
-  <a href="https://www.instagram.com/Sagar_dabhi96" class="nav-link">Instagram
+  <a href="https://github.com/SagarDabhi816" class="nav-link">Github
    <span id="line1" class="line"></span>
   <span id="line2" class="line"></span></a></a>
 </li>`;
@@ -202,7 +202,7 @@ function Hamburgermenu() {
   <button id="Linkedin"><img src="Svgs/Linkedin.svg" alt="" /></button>
 </li>
 <li class="nav-item">
-  <button id="Insta"><img src="Svgs/Insta.svg" alt="" /></button>
+  <button id="Insta"><img src="icons8-github.svg" alt="" /></button>
 </li>`;
 
   hamburger.addEventListener("click", () => {
