@@ -130,12 +130,7 @@ function animatehomepage() {
 function appopener() {
   const whatsappButton = document.getElementById("whatsapp");
   whatsappButton.addEventListener("click", () => {
-    const phoneNumber = "+919054100373"; // Replace with the desired phone number
-    const message = "Hey Sagar, I have just visited your portfolio."; // Replace with your desired message
-    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
-      message
-    )}`;
-    window.open(whatsappUrl, "_blank");
+       window.location.href = "https://github.com/SagarDabhi816";
   });
 
   const emailButton = document.getElementById("maill");
@@ -171,8 +166,7 @@ function appopener() {
 
   const instagramButton = document.getElementById("Insta");
   instagramButton.addEventListener("click", () => {
-    const instagramProfileUrl = "https://www.instagram.com/Sagar_dabhi96"; // Replace with your Instagram profile URL
-    window.open(instagramProfileUrl, "_blank");
+    window.location.href = "https://github.com/SagarDabhi816";
   });
 
   const instagramButton2 = document.getElementById("Instaa");
